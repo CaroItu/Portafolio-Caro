@@ -79,9 +79,6 @@ body{
     color: #fff;
     padding: 50px 20px;
 }
-
-
-
 /*CONTACTO */
 .contacto{
     background-color: #1e2326;
@@ -129,9 +126,9 @@ footer .arriba{
 }
 
 
-/* RESPONSIVE */
+/* RESPONSIVO */
 
-/* @media screen and (max-width:700px){
+ @media screen and (max-width:700px){
     .sobremi .fila{
         display: block;
     }
@@ -143,17 +140,8 @@ footer .arriba{
         width: 100%;
     }
 
-    .portfolio .galeria{
-        display: block;
-        width: 100%;
-    }
-    .portfolio .galeria .proyecto{
-        max-width: 100%;
-    }
-    .portfolio .galeria .proyecto img{
-        width: 100%;
-    }
     .contacto {
         display: block;
+    }
 
-} */
+}
